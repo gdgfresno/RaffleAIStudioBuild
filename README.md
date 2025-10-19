@@ -1,3 +1,15 @@
+# First Vibe Coding agent for a Raffle app
+
+For DevFets Fresno 2025. Prompt was "A web page which can conduct raffles from a bag of names. There's an input which takes a multi line of names from the clipboard. We need a button which randomly picks one of the names and then removes it from the list. A reset button would restore the list to its original full extent."
+
+Came out pretty neat:
+![screenshot](RaffleAIStudioBuild.png)
+
+Has counter for both the unraffled and the raffled names. It also does a nice raffle animation, even though there's no confetti at the end.
+The default README follows:
+
+# The Default README
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
