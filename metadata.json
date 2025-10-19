@@ -1,0 +1,5 @@
+{
+  "name": "Raffle from a Bag",
+  "description": "A web page which can conduct raffles from a bag of names. Paste a list of names, pick winners randomly, and reset the raffle.",
+  "requestFramePermissions": []
+}
